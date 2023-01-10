@@ -1,9 +1,4 @@
----
-layout: post
-title: "Music Genre Predictor"
-date: 2023-01-10 12:24 -0000
-categories: deep learning
----
+
 # Music Genre Predictor
 ## Paper implemented: 
 
